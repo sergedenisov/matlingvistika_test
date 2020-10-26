@@ -42,4 +42,4 @@ def z3(intext):
 
 
 print(z2(infile))
-infile.close
+infile.close()
